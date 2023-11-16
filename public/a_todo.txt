@@ -1,0 +1,18 @@
+จัดหน้า css
+staff_mainpage.php still _blank
+insert logout in navbar
+
+create link from main.php to 
+create_forum.php
+profile.php(ใช้แล้วในdb เป็นอักขระต่างดาวอยู่)
+search.php
+
+create link back to main.php
+purchase.php
+search.php
+search_data.php
+
+Note
+-update profile in profile.php and create_shop.php ใช้ภาษาไทยแล้วได้อักขระแปลกๆ อย่าหาทำ ไม่แก้แล้ว
+-ระบบ create_shop อัพ shop picture ไม่ได้แต่อัพdbได้ ไม่แก้แล้ว
+-ฝั่ง seller ไม่มี css+ link navigation เลย
